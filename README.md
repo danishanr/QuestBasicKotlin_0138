@@ -15,6 +15,10 @@ Map dan Percabangan If
 <img width="1470" height="956" alt="09-if" src="https://github.com/user-attachments/assets/8c0ca671-ae07-4f56-b6f9-fc29d4e0dc92" />
 <img width="1470" height="956" alt="08-map" src="https://github.com/user-attachments/assets/8171109e-590f-453e-bf68-85b497675bea" />
 
-Function, Lamda, dan Class
+Function, Lambda, dan Class
 <img width="1470" height="956" alt="13-class" src="https://github.com/user-attachments/assets/35f2d307-6541-4ef2-af5c-a344cd6fc819" />
 <img width="1470" height="956" alt="12-functions-lambda_expressions" src="https://github.com/user-attachments/assets/5ce4abb9-c17d-4a99-a282-62975aebaf38" />
+
+Data Class dan Null Safety
+<img width="1470" height="956" alt="15-null_safety" src="https://github.com/user-attachments/assets/2647d29c-1340-445a-9596-8745df34c853" />
+<img width="1470" height="956" alt="14-data_classes" src="https://github.com/user-attachments/assets/e4d8f0b0-07ee-43d6-9b51-29e29c2c87e2" />
