@@ -6,3 +6,7 @@ Intro dan Variabel Dasar
 String Template dan Tipe Data
 <img width="1470" height="956" alt="05-tipe_data_dasar" src="https://github.com/user-attachments/assets/9229bc0a-0271-4d6a-b3de-35497ed97c70" />
 <img width="1470" height="956" alt="04-strings" src="https://github.com/user-attachments/assets/fcf82f1f-c776-434d-9493-c66958720ecd" />
+
+Collection List and Set
+<img width="1470" height="956" alt="07-set" src="https://github.com/user-attachments/assets/84793e6b-f091-4e70-9e72-1c1879cd1903" />
+<img width="1470" height="956" alt="06-list" src="https://github.com/user-attachments/assets/577fc523-1b91-4ab7-aac1-9a76f2948528" />
