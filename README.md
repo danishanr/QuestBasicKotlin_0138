@@ -7,6 +7,10 @@ String Template dan Tipe Data
 <img width="1470" height="956" alt="05-tipe_data_dasar" src="https://github.com/user-attachments/assets/9229bc0a-0271-4d6a-b3de-35497ed97c70" />
 <img width="1470" height="956" alt="04-strings" src="https://github.com/user-attachments/assets/fcf82f1f-c776-434d-9493-c66958720ecd" />
 
-Collection List and Set
+Collection List dan Set
 <img width="1470" height="956" alt="07-set" src="https://github.com/user-attachments/assets/84793e6b-f091-4e70-9e72-1c1879cd1903" />
 <img width="1470" height="956" alt="06-list" src="https://github.com/user-attachments/assets/577fc523-1b91-4ab7-aac1-9a76f2948528" />
+
+Map dan Percabangan If
+<img width="1470" height="956" alt="09-if" src="https://github.com/user-attachments/assets/8c0ca671-ae07-4f56-b6f9-fc29d4e0dc92" />
+<img width="1470" height="956" alt="08-map" src="https://github.com/user-attachments/assets/8171109e-590f-453e-bf68-85b497675bea" />
